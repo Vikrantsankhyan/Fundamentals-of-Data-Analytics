@@ -47,7 +47,7 @@ Random Forest achieved the highest predictive accuracy.
 
 ## Repository Contents
 
-* UC_17371.ipynb – Complete Jupyter Notebook
+* Automobile_Price_Prediction.ipynb – Complete Jupyter Notebook
 * Figures and visualisations
 * Model evaluation outputs
 * Project report
